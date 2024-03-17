@@ -5,7 +5,7 @@
 
    QUICK FIX PER IL PROBLEMA "500: Internal Server Error"
 
-Scarica ed installa [miktex](https://miktex.org/howto/download-miktex) e [pandoc]([https://miktex.org/howto/download-miktex](https://github.com/jgm/pandoc/releases/tag/3.1.12.2))
+Scarica ed installa [miktex](https://miktex.org/howto/download-miktex) e [pandoc](https://github.com/jgm/pandoc/releases/tag/3.1.12.2)
 
 Vai nell file directory di MiKTex (AppData -> Local -> Programs -> MiKTeX -> miktex -> bin -> x64) e copia il percorso file,
 ![image](https://github.com/Ricky-bruh/Jupyter_Fix/assets/113943400/e45281f8-982f-49d1-aff3-21ffd88cb8f3)
