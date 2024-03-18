@@ -1,4 +1,9 @@
-# Jupyter_Fix
+# Jupyter Fix
+# FUNZIONA PER:
+# ✅ WINDOWS 11
+# ✅ WINDOWS 10
+
+
 
 
 ![image](https://github.com/Ricky-bruh/Jupyter_Fix/assets/113943400/d55a4486-1cbe-47b8-a3a0-3db2dd4676e1)
