@@ -1,7 +1,7 @@
 # Jupyter Fix
 # FUNZIONA PER:
-# ✅ WINDOWS 11
-# ✅ WINDOWS 10
+✅ WINDOWS 11
+✅ WINDOWS 10
 
 
 
